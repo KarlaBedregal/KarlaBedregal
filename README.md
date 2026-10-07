@@ -36,61 +36,9 @@ I'm a **Systems Engineering** student from Arequipa, Peru. I like building softw
 
 ## 🛠️ Tech stack
 
-<h4>💻 Languages</h4>
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br><sub><b>C</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br><sub><b>Dart</b></sub></td>
-  </tr>
-</table>
-
-<h4>🧠 AI & Data</h4>
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /><br><sub><b>scikit-learn</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
-  </tr>
-</table>
-
-<h4>🌐 Web & Mobile</h4>
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br><sub><b>Vue</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br><sub><b>Flutter</b></sub></td>
-  </tr>
-</table>
-
-<h4>⚙️ Tools & Hardware</h4>
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br><sub><b>Figma</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br><sub><b>Raspberry Pi</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br><sub><b>Arduino</b></sub></td>
-  </tr>
-</table>
-
-<h4>🌱 Learning</h4>
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br><sub><b>Blender</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br><sub><b>Unity</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS 2" /><br><sub><b>ROS 2</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="Modern C++" /><br><sub><b>Modern C++</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stack.svg" width="90%" alt="Tech stack: Python, Java, C, C++, JavaScript, TypeScript, Dart, PyTorch, scikit-learn, OpenCV, Pandas, React, Vue, Next.js, FastAPI, Flask, Flutter, Git, Docker, Linux, Figma, Raspberry Pi, Arduino. Learning: Blender, Unity, ROS 2, Modern C++" />
+</p>
 
 ## 🚀 Featured projects
 
