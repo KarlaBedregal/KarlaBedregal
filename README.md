@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6d28d9,50:8b5cf6,100:a78bfa&text=Hi,%20I'm%20Karla%20👋&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Systems%20Engineering%20student%20·%20Applied%20AI%20·%20Robotics%20%26%20VR%20in%20progress&descSize=16&descAlignY=58" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Hi, I'm Karla" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+AI+for+real-world+problems;Computer+Vision+%C2%B7+Machine+Learning+%C2%B7+RL;Optimization+%26+Simulation;Learning+VR+with+Blender+%26+Unity;Next+stop%3A+robots+%F0%9F%A4%96" alt="Typing SVG" />
@@ -6,97 +6,81 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Arequipa,_Peru-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_Systems_Engineering_@_UNSA-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/📊_Business_Administration_@_Continental-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻_Systems_Engineering_student-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/🗣️_Spanish_·_English_(B2)-8B5CF6?style=flat-square" />
 </p>
 
 ## 👩‍💻 About me
 
-I'm a Systems Engineering student at **UNSA** (Arequipa, Peru 🇵🇪), also studying **Business Administration** at Universidad Continental. I like building AI that solves real problems, and I'm working my way into **robotics** and **virtual reality**.
+I'm a **Systems Engineering** student from Arequipa, Peru 🇵🇪. I like building software and AI that solve real problems, and I'm working my way into **robotics** and **virtual reality**.
 
 - 🔭 I'm currently working on a mini operating system, an ERP module (DevOps & architecture) and a VR rehabilitation research project
 - 🌱 I'm currently learning **ROS 2**, **C++**, and **VR development with Blender & Unity**
 - 👯 I'm looking to collaborate on **AI, computer vision, VR and robotics** projects
-- 🏆 I love hackathons: NASA Space Apps Challenge, Innovaton and more
-- 💜 Community: IEEE Women in Engineering & ACM student chapters
-- 💬 Ask me about computer vision, ML, optimization or how to survive two degrees at once
-- ⚡ Fun fact: I was the robotics director of my university's ASME chapter
+- 💬 Ask me about computer vision, machine learning or optimization
+- ⚡ Fun fact: I was the robotics director of my university's ASME chapter, and I also study business on the side
 
 ## 🤖 Boot sequence
 
-```diff
-> Initializing karla.robot ...
-+ [ OK ] Systems Engineering @ UNSA ............ 3rd year
-+ [ OK ] Business Administration @ Continental . in progress
-+ [ OK ] Java & Object-Oriented Programming .... loaded
-+ [ OK ] Computer Vision (YOLOv8, OpenCV) ....... loaded
-+ [ OK ] Machine Learning (XGBoost, RF) ........ loaded
-+ [ OK ] Reinforcement Learning (PPO) .......... loaded
-+ [ OK ] Optimization & Simulation (LP, SimPy) . loaded
-+ [ OK ] LLMs & RAG pipelines .................. loaded
-+ [ OK ] Web development & APIs ................ loaded
-! [ .. ] Virtual Reality (Blender, Unity) ...... installing...
-! [ .. ] ROS 2 / Gazebo ........................ installing...
-! [ .. ] Modern C++ ............................ installing...
-> Target: robotics, VR & autonomous systems 🤖
-```
+<p align="center">
+  <img src="./assets/boot.svg" width="90%" alt="Boot sequence" />
+</p>
 
 ## 🛠️ Tech stack
 
+<h4>💻 Languages</h4>
 <table>
   <tr>
-    <td><b>💻 Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-7C3AED?style=for-the-badge&logo=dart&logoColor=white" />
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br><sub><b>Dart</b></sub></td>
   </tr>
+</table>
+
+<h4>🧠 AI & Data</h4>
+<table>
   <tr>
-    <td><b>🧠 AI & Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-7C3AED?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLOv8-7C3AED?style=for-the-badge&logo=ultralytics&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white" />
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /><br><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
   </tr>
+</table>
+
+<h4>🌐 Web & Mobile</h4>
+<table>
   <tr>
-    <td><b>🌐 Web & Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue-7C3AED?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-7C3AED?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" />
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br><sub><b>Vue</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br><sub><b>Flutter</b></sub></td>
   </tr>
+</table>
+
+<h4>⚙️ Tools & Hardware</h4>
+<table>
   <tr>
-    <td><b>⚙️ Tools & Hardware</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Raspberry_Pi-7C3AED?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-7C3AED?style=for-the-badge&logo=arduino&logoColor=white" />
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br><sub><b>Figma</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br><sub><b>Raspberry Pi</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br><sub><b>Arduino</b></sub></td>
   </tr>
+</table>
+
+<h4>🌱 Learning</h4>
+<table>
   <tr>
-    <td><b>🌱 Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Blender-C4B5FD?style=for-the-badge&logo=blender&logoColor=4C1D95" />
-      <img src="https://img.shields.io/badge/Unity-C4B5FD?style=for-the-badge&logo=unity&logoColor=4C1D95" />
-      <img src="https://img.shields.io/badge/ROS_2-C4B5FD?style=for-the-badge&logo=ros&logoColor=4C1D95" />
-      <img src="https://img.shields.io/badge/Modern_C++-C4B5FD?style=for-the-badge&logo=cplusplus&logoColor=4C1D95" />
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br><sub><b>Blender</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br><sub><b>Unity</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS 2" /><br><sub><b>ROS 2</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="Modern C++" /><br><sub><b>Modern C++</b></sub></td>
   </tr>
 </table>
 
@@ -125,15 +109,14 @@ I'm a Systems Engineering student at **UNSA** (Arequipa, Peru 🇵🇪), also st
   </tr>
 </table>
 
-## 🏆 Hackathons & community
+## 🎯 2026–2027 goals
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NASA_Space_Apps-Arequipa-6D28D9?style=for-the-badge&logo=nasa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Innovaton-Hackathon-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IEEE-Women_in_Engineering-6D28D9?style=for-the-badge&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/ACM-Student_Chapter-6D28D9?style=for-the-badge&logo=acm&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASME-Robotics_Director_(former)-6D28D9?style=for-the-badge" />
-</p>
+- [x] Build AI projects with computer vision, ML and reinforcement learning
+- [x] Ship full-stack apps (web + mobile + APIs)
+- [ ] Build a VR rehabilitation prototype with Blender & Unity
+- [ ] Simulate my first robot with ROS 2 & Gazebo
+- [ ] Publish my first research paper
+- [ ] Contribute to an open-source robotics project
 
 ## 📊 GitHub stats
 
@@ -146,10 +129,6 @@ I'm a Systems Engineering student at **UNSA** (Arequipa, Peru 🇵🇪), also st
   <img src="https://streak-stats.demolab.com?user=KarlaBedregal&hide_border=true&border_radius=12&background=5B3A9E&ring=C4B5FD&fire=F0ABFC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C4B5FD&sideLabels=EDE9FE&dates=DDD6FE&stroke=C4B5FD" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarlaBedregal&bg_color=5B3A9E&color=EDE9FE&line=C4B5FD&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true&radius=12" width="100%" />
-</p>
-
 ## 📫 Let's connect
 
 <p align="center">
@@ -157,4 +136,4 @@ I'm a Systems Engineering student at **UNSA** (Arequipa, Peru 🇵🇪), also st
   <a href="mailto:kbedregalc@unsa.edu.pe"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:a78bfa,50:8b5cf6,100:6d28d9&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="" />
