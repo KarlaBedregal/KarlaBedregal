@@ -12,13 +12,21 @@
 
 ## 👩‍💻 About me
 
-I'm a **Systems Engineering** student from Arequipa, Peru 🇵🇪. I like building software and AI that solve real problems, and I'm working my way into **robotics** and **virtual reality**.
+I'm a **Systems Engineering** student from Arequipa, Peru. I like building software and AI that solve real problems, and I'm working my way into **robotics** and **virtual reality**.
 
-- 🔭 I'm currently working on a mini operating system, an ERP module (DevOps & architecture) and a VR rehabilitation research project
-- 🌱 I'm currently learning **ROS 2**, **C++**, and **VR development with Blender & Unity**
-- 👯 I'm looking to collaborate on **AI, computer vision, VR and robotics** projects
-- 💬 Ask me about computer vision, machine learning or optimization
-- ⚡ Fun fact: besides Systems Engineering, I also study Business Administration
+- I'm currently working on a mini operating system, an ERP module (DevOps & architecture) and a VR rehabilitation research project
+- I'm currently learning **ROS 2**, **C++**, and **VR development with Blender & Unity**
+- I'm looking to collaborate on **AI, computer vision, VR and robotics** projects
+- Ask me about computer vision, machine learning or optimization
+- Fun fact: besides Systems Engineering, I also study Business Administration
+
+<p align="center">
+  <b>Open to:</b>&nbsp;
+  <img src="https://img.shields.io/badge/Internships-F43F5E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research_collaborations-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Remote_work-F43F5E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_source-8B5CF6?style=for-the-badge" />
+</p>
 
 ## 🤖 Boot sequence
 
@@ -118,6 +126,18 @@ I'm a **Systems Engineering** student from Arequipa, Peru 🇵🇪. I like build
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KarlaBedregal&hide_border=false&border=F43F5E&border_radius=12&background=5B3A9E&ring=C4B5FD&fire=F43F5E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FB7185&sideLabels=EDE9FE&dates=DDD6FE&stroke=C4B5FD" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarlaBedregal/KarlaBedregal/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarlaBedregal/KarlaBedregal/output/snake-light.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/KarlaBedregal/KarlaBedregal/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="./assets/quote.svg" width="90%" alt="I never saved anything for the swim back. - Gattaca" />
 </p>
 
 ## 📫 Let's connect
