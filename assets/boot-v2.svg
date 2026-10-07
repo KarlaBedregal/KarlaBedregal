@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="450" viewBox="-60 -60 940 450">
+  <defs><linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e1433"/><stop offset="1" stop-color="#2d1f4d"/></linearGradient>
+<linearGradient id="fx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.12" stop-color="#fff"/><stop offset="0.88" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="fy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.25066666666666665" stop-color="#fff"/><stop offset="0.7493333333333334" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="mx"><rect x="-60" y="-60" width="940.0" height="450.0" fill="url(#fx)"/></mask>
+<mask id="my"><rect x="-60" y="-60" width="940.0" height="450.0" fill="url(#fy)"/></mask>
     <style>
       .win  { fill: #1e1433; }
       .bar  { fill: #2d1f4d; }
@@ -19,10 +23,10 @@
       @keyframes show  { from { opacity: 0; } to { opacity: 1; } }
       @keyframes blink { 50% { opacity: 0; } }
     </style>
-  </defs>
+  </defs><g mask="url(#my)"><rect x="-60" y="-60" width="940.0" height="450.0" fill="url(#fbg)" mask="url(#mx)"/></g>
 
-  <rect class="win" x="1.5" y="1.5" width="817" height="327" rx="14" stroke="#f43f5e" stroke-width="3"/>
-  <path class="bar" d="M3 15 A12 12 0 0 1 15 3 H805 A12 12 0 0 1 817 15 V38 H3 Z"/>
+  
+  
   <circle cx="24" cy="19" r="6" fill="#f87171"/>
   <circle cx="44" cy="19" r="6" fill="#fbbf24"/>
   <circle cx="64" cy="19" r="6" fill="#4ade80"/>

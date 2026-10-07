@@ -31,13 +31,13 @@ I'm a **Systems Engineering** student from Arequipa, Peru. I like building softw
 ## 🤖 Boot sequence
 
 <p align="center">
-  <img src="./assets/boot.svg" width="90%" alt="Boot sequence" />
+  <img src="./assets/boot-v2.svg" width="90%" alt="Boot sequence" />
 </p>
 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="./assets/stack.svg" width="90%" alt="Tech stack: Python, Java, C, C++, JavaScript, TypeScript, Dart, PyTorch, scikit-learn, OpenCV, Pandas, React, Vue, Next.js, FastAPI, Flask, Flutter, Git, Docker, Linux, Figma, Raspberry Pi, Arduino. Learning: Blender, Unity, ROS 2, Modern C++" />
+  <img src="./assets/stack-v2.svg" width="90%" alt="Tech stack: Python, Java, C, C++, JavaScript, TypeScript, Dart, PyTorch, scikit-learn, OpenCV, Pandas, React, Vue, Next.js, FastAPI, Flask, Flutter, Git, Docker, Linux, Figma, Raspberry Pi, Arduino. Learning: Blender, Unity, ROS 2, Modern C++" />
 </p>
 
 ## 🚀 Featured projects
@@ -85,7 +85,7 @@ I'm a **Systems Engineering** student from Arequipa, Peru. I like building softw
 </p>
 
 <p align="center">
-  <img src="./assets/quote.svg" width="90%" alt="I never saved anything for the swim back. - Gattaca" />
+  <img src="./assets/quote-v2.svg" width="90%" alt="I never saved anything for the swim back. - Gattaca" />
 </p>
 
 ## 📫 Let's connect

@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="170" viewBox="0 0 820 170">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="260" viewBox="-60 -45 940 260">
+  <defs><linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d1f4d"/><stop offset="1" stop-color="#4c2a85"/></linearGradient>
+<linearGradient id="fx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.12" stop-color="#fff"/><stop offset="0.88" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="fy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.4338461538461538" stop-color="#fff"/><stop offset="0.5661538461538462" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="mx"><rect x="-60" y="-45" width="940.0" height="260.0" fill="url(#fx)"/></mask>
+<mask id="my"><rect x="-60" y="-45" width="940.0" height="260.0" fill="url(#fy)"/></mask>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#2d1f4d"/>
       <stop offset="100%" stop-color="#4c2a85"/>
@@ -13,8 +17,8 @@
       .d2 { animation-delay: 0.8s; } .d3 { animation-delay: 1.6s; }
       @keyframes f { to { opacity: 1; } }
     </style>
-  </defs>
-  <rect x="1.5" y="1.5" width="817" height="167" rx="14" fill="url(#bg)" stroke="#f43f5e" stroke-width="3"/>
+  </defs><g mask="url(#my)"><rect x="-60" y="-45" width="940.0" height="260.0" fill="url(#fbg)" mask="url(#mx)"/></g>
+  
   <text x="30" y="88" class="mark">“</text>
   <text x="410" y="62" text-anchor="middle" class="q fade">You wanna know how I did it? This is how I did it, Anton:</text>
   <text x="410" y="100" text-anchor="middle" class="q2 fade d2">I never saved anything for the swim back.</text>
