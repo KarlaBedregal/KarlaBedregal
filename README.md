@@ -1,11 +1,11 @@
 <img src="./assets/header.svg" width="100%" alt="Hi, I'm Karla" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+AI+for+real-world+problems;Computer+Vision+%C2%B7+Machine+Learning+%C2%B7+RL;Optimization+%26+Simulation;Learning+VR+with+Blender+%26+Unity;Next+stop%3A+robots+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=F43F5E&center=true&vCenter=true&width=640&lines=Building+AI+for+real-world+problems;Computer+Vision+%C2%B7+Machine+Learning+%C2%B7+RL;Optimization+%26+Simulation;Learning+VR+with+Blender+%26+Unity;Next+stop%3A+robots+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Arequipa,_Peru-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Arequipa,_Peru-E11D48?style=flat-square" />
   <img src="https://img.shields.io/badge/💻_Systems_Engineering_student-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/🗣️_Spanish_·_English_(B2)-8B5CF6?style=flat-square" />
 </p>
@@ -18,7 +18,7 @@ I'm a **Systems Engineering** student from Arequipa, Peru 🇵🇪. I like build
 - 🌱 I'm currently learning **ROS 2**, **C++**, and **VR development with Blender & Unity**
 - 👯 I'm looking to collaborate on **AI, computer vision, VR and robotics** projects
 - 💬 Ask me about computer vision, machine learning or optimization
-- ⚡ Fun fact: I was the robotics director of my university's ASME chapter, and I also study business on the side
+- ⚡ Fun fact: besides Systems Engineering, I also study Business Administration
 
 ## 🤖 Boot sequence
 
@@ -109,24 +109,15 @@ I'm a **Systems Engineering** student from Arequipa, Peru 🇵🇪. I like build
   </tr>
 </table>
 
-## 🎯 2026–2027 goals
-
-- [x] Build AI projects with computer vision, ML and reinforcement learning
-- [x] Ship full-stack apps (web + mobile + APIs)
-- [ ] Build a VR rehabilitation prototype with Blender & Unity
-- [ ] Simulate my first robot with ROS 2 & Gazebo
-- [ ] Publish my first research paper
-- [ ] Contribute to an open-source robotics project
-
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarlaBedregal&show_icons=true&hide_border=true&border_radius=12&bg_color=5B3A9E&title_color=FFFFFF&text_color=EDE9FE&icon_color=C4B5FD" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaBedregal&layout=compact&hide_border=true&border_radius=12&bg_color=5B3A9E&title_color=FFFFFF&text_color=EDE9FE" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarlaBedregal&show_icons=true&hide_border=false&border_color=F43F5E&border_radius=12&bg_color=5B3A9E&title_color=FB7185&text_color=EDE9FE&icon_color=C4B5FD" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaBedregal&layout=compact&hide_border=false&border_color=F43F5E&border_radius=12&bg_color=5B3A9E&title_color=FB7185&text_color=EDE9FE" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KarlaBedregal&hide_border=true&border_radius=12&background=5B3A9E&ring=C4B5FD&fire=F0ABFC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C4B5FD&sideLabels=EDE9FE&dates=DDD6FE&stroke=C4B5FD" />
+  <img src="https://streak-stats.demolab.com?user=KarlaBedregal&hide_border=false&border=F43F5E&border_radius=12&background=5B3A9E&ring=C4B5FD&fire=F43F5E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FB7185&sideLabels=EDE9FE&dates=DDD6FE&stroke=C4B5FD" />
 </p>
 
 ## 📫 Let's connect

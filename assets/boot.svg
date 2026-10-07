@@ -4,11 +4,11 @@
       .win  { fill: #1e1433; }
       .bar  { fill: #2d1f4d; }
       .t    { font: 15px 'Fira Code', 'Consolas', 'Courier New', monospace; fill: #ede9fe; white-space: pre; }
-      .p    { fill: #c4b5fd; }
+      .p    { fill: #fb7185; font-weight: 700; }
       .ok   { fill: #4ade80; font-weight: 700; }
       .wait { fill: #fbbf24; font-weight: 700; }
       .dim  { fill: #a78bfa; }
-      .hi   { fill: #f0abfc; font-weight: 700; }
+      .hi   { fill: #fb7185; font-weight: 700; }
       .ln   { opacity: 0; animation: show 0.35s ease-out forwards; }
       .l1 { animation-delay: 0.3s; }  .l2 { animation-delay: 1.0s; }
       .l3 { animation-delay: 1.6s; }  .l4 { animation-delay: 2.2s; }
@@ -21,8 +21,8 @@
     </style>
   </defs>
 
-  <rect class="win" x="0" y="0" width="820" height="330" rx="14"/>
-  <path class="bar" d="M0 14 A14 14 0 0 1 14 0 H806 A14 14 0 0 1 820 14 V38 H0 Z"/>
+  <rect class="win" x="1.5" y="1.5" width="817" height="327" rx="14" stroke="#f43f5e" stroke-width="3"/>
+  <path class="bar" d="M3 15 A12 12 0 0 1 15 3 H805 A12 12 0 0 1 817 15 V38 H3 Z"/>
   <circle cx="24" cy="19" r="6" fill="#f87171"/>
   <circle cx="44" cy="19" r="6" fill="#fbbf24"/>
   <circle cx="64" cy="19" r="6" fill="#4ade80"/>
