@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/🗣️_Spanish_·_English_(B2)-8B5CF6?style=flat-square" />
 </p>
 
-## 👩‍💻 About me
+## About me
 
 I'm a **Systems Engineering** student from Arequipa, Peru. I like building software and AI that solve real problems, and I'm working my way into **robotics** and **virtual reality**.
 
@@ -28,7 +28,7 @@ I'm a **Systems Engineering** student from Arequipa, Peru. I like building softw
   <img src="https://img.shields.io/badge/Open_source-8B5CF6?style=for-the-badge" />
 </p>
 
-## 🤖 Boot sequence
+## Boot sequence
 
 <p align="center">
   <img src="./assets/boot-v2.svg" width="90%" alt="Boot sequence" />
@@ -40,7 +40,7 @@ I'm a **Systems Engineering** student from Arequipa, Peru. I like building softw
   <img src="./assets/stack-v2.svg" width="90%" alt="Tech stack: Python, Java, C, C++, JavaScript, TypeScript, Dart, PyTorch, scikit-learn, OpenCV, Pandas, React, Vue, Next.js, FastAPI, Flask, Flutter, Git, Docker, Linux, Figma, Raspberry Pi, Arduino. Learning: Blender, Unity, ROS 2, Modern C++" />
 </p>
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ I'm a **Systems Engineering** student from Arequipa, Peru. I like building softw
   </tr>
 </table>
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarlaBedregal&show_icons=true&hide_border=false&border_color=F43F5E&border_radius=12&bg_color=5B3A9E&title_color=FB7185&text_color=EDE9FE&icon_color=C4B5FD" height="165" />
@@ -88,7 +88,7 @@ I'm a **Systems Engineering** student from Arequipa, Peru. I like building softw
   <img src="./assets/quote-v2.svg" width="90%" alt="I never saved anything for the swim back. - Gattaca" />
 </p>
 
-## 📫 Let's connect
+## Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karla-miluska-b-597a441bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
